@@ -7,7 +7,8 @@ pruning
 intro 
 -parler des plan 
 -justifier le multimodal
-
+Emplacement du  GIT sur le laptop:
+~/Robin/Bureau/Stage cetic
 
 outils Latex :
 Taxmaker et miktex
