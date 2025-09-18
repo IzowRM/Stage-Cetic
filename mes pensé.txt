@@ -1,18 +1,18 @@
 demander plus de renseignement sur :
 	-la nature des document d'entrée uniquement des plan ou possiblement d'autre choses ?
-Vocabulaire à  voir:
-revue systématique
-pruning 
 
 intro 
--parler des plan 
--justifier le multimodal
-Emplacement du  GIT sur le laptop:
-~/Robin/Bureau/Stage cetic
+	-parler des plan 
+	-justifier le multimodal
+
+Emplacement du GIT sur le laptop:
+	~/Robin/Bureau/Stage cetic
 
 outils Latex :
 Taxmaker et miktex
 
 
-faire des slide pour porésenter mon avvancement toutes les emaines 
+Possibilité d’entrainé une partie du model avec un dataset qui n’est pas forcément destiné à détecter
+les différant type d’objet sur le plan (Mur/porte ect …)
+Et finalement utiliser un dataset annoté avec des métrés pour entrainer les outputs
 
