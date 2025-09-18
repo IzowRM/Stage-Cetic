@@ -15,4 +15,7 @@ Taxmaker et miktex
 Possibilité d’entrainé une partie du model avec un dataset qui n’est pas forcément destiné à détecter
 les différant type d’objet sur le plan (Mur/porte ect …)
 Et finalement utiliser un dataset annoté avec des métrés pour entrainer les outputs
+Possible entrée via Photo/Pdf DWG ou SVG/DXF
 
+
+You  look only once
