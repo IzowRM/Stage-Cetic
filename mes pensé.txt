@@ -29,5 +29,32 @@ Ajouter dans l'intro que ca a augementer
 faire le liens avec les limites des solutions deja exiqtante et  la possible 
 4.3 Application des modéles multimod au  cas de la valorisation de plans de contruction  
 	parler des possible scénariaux 
+1 Introduction 2
+
+II Formats et spécificités des plans    
+
+2.1 Plans 2D   
+
+2.1.1 Formats et spécificités des plans 2D       
+
+2.1.2 Traitement des plans 2D           
+
+2.2 Plans 3D   
+
+2.2.1 Formats et spécificités des plans 3D       
+
+2.2.2 Traitement des plans 3D            
+
+III. Solutions existantes et limites
+
+IV. Piste envisagée
+
+IV.1. Intro : émergences des modèles multimodaux 
+
+IV.2. Mode de fonctionnement des modèles multimodaux et leurs limites
+IV.3 Application des modéles multimod au  cas de la valorisation de plans de contruction  
+	parler des possible scénariaux
+
+V. Conclusion 14
 
 ajouter une solution possible basé sur les comercial faire les deux 
