@@ -1,0 +1,3 @@
+-tester refaire la balance du  dataset 
+-ajouter un autre pos_wheigth
+-réussir à  avoir de meilleurs résultat avec VIT
