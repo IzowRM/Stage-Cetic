@@ -1,0 +1,25 @@
+ - piste d'amélioration dans le rapport 
+ - Valider l'approche  avec d'autre exemple
+	- 5 exemples
+-robustesse de l'évaluation 
+- voir sans pdf 
+-Voir si est possible 
+- que faire pour aller plus loins faire un récits:
+ - ajouter des agents 
+ 	- Qui donne les prix 
+	- 
+
+Autre Pluo : 
+ - faire un parallèle avec le slide 
+Présentation usage des model  MM 
+	-les différentes manières 
+	-Données des cas d'utilisation 
+	-Comment choisir 
+	- voir pour le Usecase et faire le parallèle
+	
+
+prévoir 2 TIM ...
+Présenter la Multimodalité au sens large appuyer sur le cinéma
+Les cas d'usage 
+présenter le cas ce qu'on a exploré et  ce qu'on aurais pu mettre en place 
+
