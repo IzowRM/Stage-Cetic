@@ -4,12 +4,13 @@
 -robustesse de l'évaluation 
 - voir sans pdf 
 -Voir si est possible 
+
 - que faire pour aller plus loins faire un récits:
  - ajouter des agents 
  	- Qui donne les prix 
-	- 
+         problème pour faire le liens entre les meuble et les fichier pdf
 
-Autre Pluo : 
+Autre Pluo :
  - faire un parallèle avec le slide 
 Présentation usage des model  MM 
 	-les différentes manières 
@@ -19,7 +20,7 @@ Présentation usage des model  MM
 	
 
 prévoir 2 TIM ...
-Présenter la Multimodalité au sens large appuyer sur le cinéma
+Présenter la Multimodalité au sens large appuyer sur le multimodal cinéma
 Les cas d'usage 
 présenter le cas ce qu'on a exploré et  ce qu'on aurais pu mettre en place 
 
