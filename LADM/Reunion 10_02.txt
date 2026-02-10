@@ -1,0 +1,21 @@
+la réunion à pour but de presenter le start-IA / WallHUB  et demander des information supplémentaire:
+Quentin poncelet 
+le poids de la pièces les heur de prestations 
+découpe 
+pliage 
+soudage
+usinage 
+
+ciblé les actions nécessaires dans un des 4 choix 
+quantité de matières en kg 
+idéalement le temps 
+
+fichier excel qui contient les informations
+ 
+identifier la taille de lame nombre de trous
+les types de trou aussi 
+Possiblement passer par un plan à  chaque fois si  meilleur résultats 
+un fichier step 
+ 
+On va avoir plusieurs type de fichiers 
+Contraintes fixé pour l'utilisation de dxf. 
